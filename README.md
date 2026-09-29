@@ -26,6 +26,3 @@ Nature of Swann's Jealousy
 The text describes jealousy as composed of « une infinité d'amours successifs, de jalousies différentes et qui sont éphémères, mais par leur multitude ininterrompue donnent l'impression de la continuité, l'illusion de l'unité » (ch.2, par.566). These successive, ephemeral jealousies and loves create an illusion of continuity and unity in Swann's emotional life centered on Odette.
 
 See [answer-example.md](answer-example.md) for the full response.
-
-
-
