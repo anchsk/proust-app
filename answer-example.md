@@ -1,15 +1,11 @@
-## Flowers in the Garden Description
+## Swann's Jealousy
+Based on the provided context, Swann's jealousy is portrayed as a destructive and all-consuming force that fundamentally transforms his character and perception of the world.
 
-The text contains several rich descriptions of flowers in garden settings, showcasing the narrator's poetic sensibility and attention to natural beauty.
+### Nature of Swann's Jealousy
+The text describes jealousy as composed of « une infinité d'amours successifs, de jalousies différentes et qui sont éphémères, mais par leur multitude ininterrompue donnent l'impression de la continuité, l'illusion de l'unité » (ch.2, par.566). These successive, ephemeral jealousies and loves create an illusion of continuity and unity in Swann's emotional life centered on Odette.
 
-### Asparagus and Spring Vegetables
+### Its Destructive Power
+Swann's jealousy is characterized as actively malevolent: « sa jalousie qui avait pris une peine qu'un ennemi ne se serait pas donnée pour arriver à lui faire asséner ce coup, à lui faire faire la connaissance de la douleur la plus cruelle qu'il eût encore jamais connue, sa jalousie ne trouvait pas qu'il eut assez souffert et cherchait à lui faire recevoir une blessure plus profonde encore » (ch.2, par.551). The jealousy is compared to « une divinité méchante » (ch.2, par.551), inspiring and pushing Swann toward his own destruction.
 
-One of the most distinctive passages describes asparagus with remarkable lyrical detail. The narrator perceives these vegetables as secretly transformed creatures, noticing « ces légères couronnes d'azur qui ceignaient les asperges au-dessus de leurs tuniques de rose » (ch.1, par.262). This description transforms the humble asparagus into something precious and almost divine, comparing the delicate blue crowns and pink tunics to the flowers adorning saints in Giotto's frescoes.
-
-### Water Lilies (Nymphéas)
-
-A lengthy passage describes water lilies on a pond with extraordinary attention to color and form. The text notes « rougissait comme une fraise une fleur de nymphéa au cœur écarlate, blanc sur les bords » (ch.1, par.351), and continues with detailed observations of how « les fleurs plus nombreuses étaient plus pâles, moins lisses, plus grenues, plus plissées ». The narrator emphasizes how the water itself becomes precious, suggesting « il donnait aux fleurs un sol d'une couleur plus précieuse, plus émouvante que la couleur des fleurs elles-mêmes » (ch.1, par.351).
-
-### Roses and the Park at Combray
-
-Swann remembers a park where « quand il dînait enlacées par son jardinier, couraient autour de la table les groseilles et les roses » (ch.2, par.308).
+### Impact on His Character
+The jealousy « altérait le caractère de Swann et changeait du tout au tout, aux yeux des autres, l'aspect même des signes extérieurs par lesquels ce caractère se manifestait » (ch.2, par.339), making him misanthropic as he suspects every man of being a possible lover for Odette.

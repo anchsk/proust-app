@@ -1,28 +1,31 @@
 # proust-app
 
-keywords: French, Proust, RAG
+Web interface for [proust-rag](https://github.com/anchsk/proust-rag): ask questions about Proust's *Du côté de chez Swann* in any language, and get answers built from quotes in the original French text.
 
-### What does it do:
-ask a question about the text of The Swann's Way and get the quotes from the text
+**Live:** []()
 
----
+The retrieval, evaluation and documented findings live in [proust-rag](https://github.com/anchsk/proust-rag); the text preparation and indexing in [proust-pipeline](https://github.com/anchsk/proust-pipeline). This repo is only the frontend.
+
+**Stack:** Next.js, shadcn/ui, AI Elements
+
+## Run locally
+
+```sh
+npm install
+NEXT_PUBLIC_API_URL=http://localhost:8000 npm run dev
+```
 
 ## Example
 
-query: `flowers in the garden description`
+**Query:** `Swann's jealousy`
 
-answer:
+**Answer:**     
+Based on the provided context, Swann's jealousy is portrayed as a destructive and all-consuming force that fundamentally transforms his character and perception of the world.
 
-## Flowers in the Garden Description
+Nature of Swann's Jealousy
+The text describes jealousy as composed of « une infinité d'amours successifs, de jalousies différentes et qui sont éphémères, mais par leur multitude ininterrompue donnent l'impression de la continuité, l'illusion de l'unité » (ch.2, par.566). These successive, ephemeral jealousies and loves create an illusion of continuity and unity in Swann's emotional life centered on Odette.
 
-The text contains several rich descriptions of flowers in garden settings, showcasing the narrator's poetic sensibility and attention to natural beauty.
-
-### Asparagus and Spring Vegetables
-
-One of the most distinctive passages describes asparagus with remarkable lyrical detail. The narrator perceives these vegetables as secretly transformed creatures, noticing « ces légères couronnes d'azur qui ceignaient les asperges au-dessus de leurs tuniques de rose » (ch.1, par.262). This description transforms the humble asparagus into something precious and almost divine, comparing the delicate blue crowns and pink tunics to the flowers adorning saints in Giotto's frescoes.
+See [answer-example.md](answer-example.md) for the full response.
 
 
----
-
-see [answer-example.md](answer-example.md) for the full response
 
