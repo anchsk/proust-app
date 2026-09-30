@@ -1,8 +1,8 @@
 # proust-app
 
-Web interface for [proust-rag](https://github.com/anchsk/proust-rag): ask questions about Proust's *Du côté de chez Swann* in any language, and get answers built from quotes in the original French text.
+Web interface for [proust-rag](https://github.com/anchsk/proust-rag): ask questions about Proust's *Du côté de chez Swann* in French, English or other languages, and get answers built from quotes in the original French text.
 
-**Live:** []()
+**Live:** [https://proust-app.vercel.app](https://proust-app.vercel.app)
 
 The retrieval, evaluation and documented findings live in [proust-rag](https://github.com/anchsk/proust-rag); the text preparation and indexing in [proust-pipeline](https://github.com/anchsk/proust-pipeline). This repo is only the frontend.
 
@@ -26,6 +26,3 @@ Nature of Swann's Jealousy
 The text describes jealousy as composed of « une infinité d'amours successifs, de jalousies différentes et qui sont éphémères, mais par leur multitude ininterrompue donnent l'impression de la continuité, l'illusion de l'unité » (ch.2, par.566). These successive, ephemeral jealousies and loves create an illusion of continuity and unity in Swann's emotional life centered on Odette.
 
 See [answer-example.md](answer-example.md) for the full response.
-
-
-
